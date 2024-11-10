@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "StuffyWebsite",
+    "description": "",
+    "home_page_url": "https://stuffybutcorpo.github.io/StuffyWebsite",
+    "feed_url": "https://stuffybutcorpo.github.io/StuffyWebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Stuffy360"
+    },
+    "items": [
+        {
+            "id": "https://stuffybutcorpo.github.io/StuffyWebsite/first-page.html",
+            "url": "https://stuffybutcorpo.github.io/StuffyWebsite/first-page.html",
+            "title": "First Page :)",
+            "summary": "There's content!",
+            "content_html": "\n  <p>\n    There's content!\n  </p>",
+            "author": {
+                "name": "Stuffy360"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-10T12:57:11-08:00",
+            "date_modified": "2024-11-10T12:57:11-08:00"
+        }
+    ]
+}

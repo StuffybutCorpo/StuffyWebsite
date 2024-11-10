@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>StuffyWebsite</title>
+    <link href="https://stuffybutcorpo.github.io/StuffyWebsite/feed.xml" rel="self" />
+    <link href="https://stuffybutcorpo.github.io/StuffyWebsite" />
+    <updated>2024-11-10T12:57:11-08:00</updated>
+    <author>
+        <name>Stuffy360</name>
+    </author>
+    <id>https://stuffybutcorpo.github.io/StuffyWebsite</id>
+
+    <entry>
+        <title>First Page :)</title>
+        <author>
+            <name>Stuffy360</name>
+        </author>
+        <link href="https://stuffybutcorpo.github.io/StuffyWebsite/first-page.html"/>
+        <id>https://stuffybutcorpo.github.io/StuffyWebsite/first-page.html</id>
+
+        <updated>2024-11-10T12:57:11-08:00</updated>
+            <summary>
+                <![CDATA[
+                    There's content!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    There's content!
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

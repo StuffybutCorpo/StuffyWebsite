@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://stuffybutcorpo.github.io/StuffyWebsite/sitemap.xml
